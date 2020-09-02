@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "438840471623",
+    "firebase_url": "https://dailyatendence.firebaseio.com",
+    "project_id": "dailyatendence",
+    "storage_bucket": "dailyatendence.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:438840471623:android:efcd96b3fd8d42fd44c162",
+        "android_client_info": {
+          "package_name": "com.dineshpro.dailyatendence"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "438840471623-prvqbeegql7e5sthe87s8siov5ne4bcb.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.dineshpro.dailyatendence",
+            "certificate_hash": "2178259e7a5662310b83e976823558cd1a1f1f7b"
+          }
+        },
+        {
+          "client_id": "438840471623-m8ulaf4cdbm30v1fprgj2fle7v7r4479.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0yUcVIl7siG0j1hvcaDYt0wYYN8V8mDg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "438840471623-m8ulaf4cdbm30v1fprgj2fle7v7r4479.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
